@@ -1,8 +1,8 @@
 {
-  "name": "hero",
+  "name": "react-native-animated-hero",
   "version": "0.0.0",
-  "description": "No description",
-  "author": null,
+  "description": "React Native screen template which animates hero transition on scroll",
+  "author": "Danijel Grabez",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
@@ -11,7 +11,6 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "memoize-one": "5.0.0",
     "prop-types": "15.7.2",
-    "react-dom": "16.3.0",
     "styled-components": "4.1.3"
   }
 }
