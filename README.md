@@ -1,3 +1,5 @@
+<img src="http://www.danijelgrabez.com/public-links/github/react-native-animated-hero/react-native-animated-hero.gif" width="240" alt= "Example of React Native Animated Hero">  
+
 # React Native Animated Hero
 
 React Native screen template which animates hero transition on scroll.
